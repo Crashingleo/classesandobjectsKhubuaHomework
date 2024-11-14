@@ -6,6 +6,7 @@ public class Main {
         Book notIdiot = new Book("NotIdiot", 1010, secondAuthor);
         idiot.setYear(1005);
         System.out.println(idiot.getYear());
+        System.out.println(idiot.getYear());
     }
 
 }
